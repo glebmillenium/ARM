@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-09-18 03:56:12
+/* Smarty version 3.1.30, created on 2017-09-18 07:18:33
   from "C:\xampp\htdocs\ARM\tpl\templates\index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_59bf27bce7d6d0_74709968',
+  'unifunc' => 'content_59bf57295e08e9_18051804',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b84a907cd7978525b154386bf6ec2f1be934ea32' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ARM\\tpl\\templates\\index.tpl',
-      1 => 1505699772,
+      1 => 1505711894,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_59bf27bce7d6d0_74709968 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59bf57295e08e9_18051804 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -28,39 +28,39 @@ function content_59bf27bce7d6d0_74709968 (Smarty_Internal_Template $_smarty_tpl)
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Информационный портал ЕЭИСЦ</title>
-		<link rel="stylesheet" href='C:\xampp\htdocs\ARM\css\reset.css'>
-		<link rel="stylesheet" href='C:\xampp\htdocs\ARM\css\animate.css'>
-		<link rel="stylesheet" href='C:\xampp\htdocs\ARM\css\styles.css'>
-		<?php
+		<?php if (isset($_smarty_tpl->tpl_vars['css']->value)) {?>
+			<?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['css']->value, 'foo');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['foo']->value) {
 ?>
-			<link rel="stylesheet" href="<?php echo $_smarty_tpl->tpl_vars['foo']->value;?>
+				<link rel="stylesheet" href="<?php echo $_smarty_tpl->tpl_vars['foo']->value;?>
 ">
-		<?php
+			<?php
 }
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl);
 ?>
 
-		<?php
+		<?php }?>
+
+		<?php if (isset($_smarty_tpl->tpl_vars['js']->value)) {?>
+			<?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['js']->value, 'foo');
 if ($_from !== null) {
 foreach ($_from as $_smarty_tpl->tpl_vars['foo']->value) {
 ?>
-			<?php echo '<script'; ?>
+				<?php echo '<script'; ?>
  type="text/javascript" src="<?php echo $_smarty_tpl->tpl_vars['foo']->value;?>
 "><?php echo '</script'; ?>
 >
-		<?php
+			<?php
 }
 }
 $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl);
 ?>
 
-		<?php echo '</script'; ?>
->
+		<?php }?>
 	<body>
 
 

@@ -42,6 +42,9 @@
 			$smarty->assign('js', $js);
 		}
 		
+		//отладка
+		$smarty->caching = false;
+		
 		return $smarty;
 	}
 ?>

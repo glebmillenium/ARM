@@ -4,20 +4,24 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Информационный портал ЕЭИСЦ</title>
-		{foreach from=$css item=foo}
-			<link rel="stylesheet" href="{$foo}">
-		{/foreach}
-		{foreach from=$js item=foo}
-			<script type="text/javascript" src="{$foo}"></script>
-		{/foreach}
-		</script>
+		{if isset($css)}
+			{foreach from=$css item=foo}
+				<link rel="stylesheet" href="{$foo}">
+			{/foreach}
+		{/if}
+
+		{if isset($js)}
+			{foreach from=$js item=foo}
+				<script type="text/javascript" src="{$foo}"></script>
+			{/foreach}
+		{/if}
 	<body>
 
 
 		<div class="vladmaxi-top">
 			<a>Вход в информационный портал ЕЭИСЦ</a>
 			</span>
-		<div class="clr"></div>
+		<div class="clr">вв</div>
 		</div>
 
 		<div id="container">

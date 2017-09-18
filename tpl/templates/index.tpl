@@ -4,10 +4,13 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Информационный портал ЕЭИСЦ</title>
-		<link rel="stylesheet" href="css/reset.css">
-		<link rel="stylesheet" href="css/animate.css">
-		<link rel="stylesheet" href="css/styles.css">
-		<script type="text/javascript" src="process.js"> </script>
+		{foreach from=$css item=foo}
+			<link rel="stylesheet" href="{$foo}">
+		{/foreach}
+		{foreach from=$js item=foo}
+			<script type="text/javascript" src="{$foo}"></script>
+		{/foreach}
+		</script>
 	<body>
 
 
@@ -26,7 +29,7 @@
 						<p><a href="#">Забыли пароль?</a></p>
 				<div id="lower">
 					<input type="checkbox"><label class="check" for="checkbox">Запомнить меня</label>
-					<input type="submit" value="Войти" onclick="localhost/ARM/information_portal" >
+					<input type="button" value="Войти" onclick="checkLoginAndPassword();" >
 				</div>
 			</form>
 		</div>

@@ -1,6 +1,9 @@
 <?php
 	require_once("../smarty_connect.php");
+	require_once("../php/working_with_directories.php");
 	$smarty = getSmarty(array('panel'));
-	$smarty->display("information_portal/information_portal.tpl");
-	$smarty->display("information_portal/display_scheme.tpl");
+	
+	$ar = new WorkingWithDirectories();
+	$ar->getArrayFiles("C:\project");
+	print_r($ar);
 ?>

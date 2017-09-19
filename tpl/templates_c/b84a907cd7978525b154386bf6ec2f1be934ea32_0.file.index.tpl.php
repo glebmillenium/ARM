@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.30, created on 2017-09-18 07:18:33
+/* Smarty version 3.1.30, created on 2017-09-19 08:43:12
   from "C:\xampp\htdocs\ARM\tpl\templates\index.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.30',
-  'unifunc' => 'content_59bf57295e08e9_18051804',
+  'unifunc' => 'content_59c0bc8065c4c1_29395049',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'b84a907cd7978525b154386bf6ec2f1be934ea32' => 
     array (
       0 => 'C:\\xampp\\htdocs\\ARM\\tpl\\templates\\index.tpl',
-      1 => 1505711894,
+      1 => 1505712258,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_59bf57295e08e9_18051804 (Smarty_Internal_Template $_smarty_tpl) {
+function content_59c0bc8065c4c1_29395049 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html>
@@ -67,7 +67,7 @@ $_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl);
 		<div class="vladmaxi-top">
 			<a>Вход в информационный портал ЕЭИСЦ</a>
 			</span>
-		<div class="clr"></div>
+		<div class="clr">вв</div>
 		</div>
 
 		<div id="container">

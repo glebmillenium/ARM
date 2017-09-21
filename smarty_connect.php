@@ -8,7 +8,7 @@
      *		   $js  - массив названий, подключаемых js файлов
      * @return Smarty 'настроенный Smarty объект'
      */
-    function getSmarty($css = array(), $js = array())
+    function getSmarty($css = array(), $js = array(), $additionalDirectory = "")
     {
         $currentdDirFromScriptFile = dirname(__FILE__);
         $currentDirFromCallScriptFile = getcwd();

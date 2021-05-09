@@ -1,39 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T23:46:21.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.415" etag="MBAWrF2o2goSxvasd2-0" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-09T08:18:53.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.438" etag="91dPRE1snPqo7gZGljuL" version="14.6.10" type="github" pages="2">
   <diagram id="Xs16xnLaUw3Ui5Q5YbHP" name="Page-2">
     <mxGraphModel dx="1381" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WkHsH0A4d1GKPgpf2KQl-0" />
         <mxCell id="WkHsH0A4d1GKPgpf2KQl-1" parent="WkHsH0A4d1GKPgpf2KQl-0" />
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-4" target="WkHsH0A4d1GKPgpf2KQl-7">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-4" target="WkHsH0A4d1GKPgpf2KQl-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-4" value="begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-4" value="begin" style="ellipse;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="362" y="10" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-5" value="end" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-5" value="end" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="347" y="940" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-7" target="WkHsH0A4d1GKPgpf2KQl-44">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-7" target="WkHsH0A4d1GKPgpf2KQl-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="119.5" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-7" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-7" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="341" y="80" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-45" target="WkHsH0A4d1GKPgpf2KQl-12">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-45" target="WkHsH0A4d1GKPgpf2KQl-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414.05882352941194" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-12" target="WkHsH0A4d1GKPgpf2KQl-15">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-12" target="WkHsH0A4d1GKPgpf2KQl-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="294" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-12" target="WkHsH0A4d1GKPgpf2KQl-49">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-12" target="WkHsH0A4d1GKPgpf2KQl-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="413.25" y="840" as="targetPoint" />
             <Array as="points">
@@ -43,34 +43,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-11" value="&lt;b&gt;no&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WkHsH0A4d1GKPgpf2KQl-10">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-11" value="&lt;b&gt;no&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WkHsH0A4d1GKPgpf2KQl-10" vertex="1" connectable="0">
           <mxGeometry x="-0.8858" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-12" value="while all concepts &lt;br&gt;have not been viewed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-12" value="while all concepts &lt;br&gt;have not been viewed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="314" y="300" width="198.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-44">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="257.5" y="170" as="sourcePoint" />
             <mxPoint x="414" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-15" target="WkHsH0A4d1GKPgpf2KQl-46">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-15" target="WkHsH0A4d1GKPgpf2KQl-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-15" value="&lt;span&gt;search in depth from the available concepts to the next concept&amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-15" value="&lt;span&gt;search in depth from the available concepts to the next concept&amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="202" y="420" width="183" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-46" target="WkHsH0A4d1GKPgpf2KQl-20">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-46" target="WkHsH0A4d1GKPgpf2KQl-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-20">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="656" as="targetPoint" />
             <Array as="points">
@@ -78,31 +78,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-18" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;yes&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="WkHsH0A4d1GKPgpf2KQl-17">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-18" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;yes&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" parent="WkHsH0A4d1GKPgpf2KQl-17" vertex="1" connectable="0">
           <mxGeometry x="-0.5732" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-19" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;no&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-20" target="WkHsH0A4d1GKPgpf2KQl-23">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-19" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;no&lt;/b&gt;&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFFFFF;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-20" target="WkHsH0A4d1GKPgpf2KQl-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-20" value="the concept is generalizing&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-20" value="the concept is generalizing&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="234.5" y="585" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-23" target="WkHsH0A4d1GKPgpf2KQl-47">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-21" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-23" target="WkHsH0A4d1GKPgpf2KQl-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="325" y="688" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-22" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-23" target="WkHsH0A4d1GKPgpf2KQl-28">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-22" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-23" target="WkHsH0A4d1GKPgpf2KQl-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-23" value="concept is an attribute&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-23" value="concept is an attribute&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="385" y="648" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-66">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="290" as="targetPoint" />
             <Array as="points">
@@ -112,10 +112,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-25" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-25" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="70" y="656" width="164" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-27">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="290" as="targetPoint" />
             <Array as="points">
@@ -125,13 +125,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-27" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-27" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="257.5" y="708" width="145" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-28" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-28" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="512.5" y="720" width="127.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-28">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="620" as="sourcePoint" />
             <mxPoint x="400" y="290" as="targetPoint" />
@@ -143,115 +143,115 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-49" target="WkHsH0A4d1GKPgpf2KQl-33">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-49" target="WkHsH0A4d1GKPgpf2KQl-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-31" value="using the constructed infological data model to construct a physical database diagram&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-31" value="using the constructed infological data model to construct a physical database diagram&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="315" y="820" width="174" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-33" target="WkHsH0A4d1GKPgpf2KQl-5">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" source="WkHsH0A4d1GKPgpf2KQl-33" target="WkHsH0A4d1GKPgpf2KQl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-33" value="Generate a script for creating a schema. Execute in DBMS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-33" value="Generate a script for creating a schema. Execute in DBMS&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="293.75" y="890" width="210.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-34" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-34" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="362" y="10" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-35" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-35" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="341" y="80" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-36" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-36" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="70" y="656" width="164" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-37" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-37" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="257.5" y="708" width="145" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-38" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-38" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="512.5" y="720" width="127.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-39" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-39" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="341" y="80" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-40" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-40" value="&lt;span&gt;the found concept in the infological model is considered a separate entity.&lt;br&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="70" y="656" width="164" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-41" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-41" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="257.5" y="708" width="145" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-42" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-42" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="512.5" y="720" width="127.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-43" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-43" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="341" y="80" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-44" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-44" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="276" y="140" width="276" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-45" value="the found concept in the infological model is considered a separate entity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-45" value="the found concept in the infological model is considered a separate entity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="275.25" y="230" width="275" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-46" value="&lt;span&gt;define is the concept generalizing either a value (data in a table) or a characteristic (an attribute in a table)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-46" value="&lt;span&gt;define is the concept generalizing either a value (data in a table) or a characteristic (an attribute in a table)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="186.5" y="510" width="216" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-47" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-47" value="extend the current entity with an additional attribute (column)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="257.5" y="708" width="162.5" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-48" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-48" value="define a concept as an object (data, record in a future table)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="499.38" y="720" width="153.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-49" value="using the constructed infological data model to construct a physical database diagram&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-49" value="using the constructed infological data model to construct a physical database diagram&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="278" y="820" width="242" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-50" value="Conceptual" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-50" value="Conceptual" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="92" y="105" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-51" value="Infological" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;direction=west;strokeColor=#d6b656;fontStyle=1;fontSize=15;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-51" value="Infological" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;direction=west;strokeColor=#d6b656;fontStyle=1;fontSize=15;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="716" y="480" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-52" value="Physical" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-52" value="Physical" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=15;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="92" y="840" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="212" y="80" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;rotation=-180;size=0.15384615384615385;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;rotation=-180;size=0.15384615384615385;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="580" y="220" width="130" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#004C99;fontColor=#FFFFFF;dashed=1;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="217.5" y="815" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-56" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-56" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="340.25" y="80" width="146" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-57" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-57" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="361.25" y="10" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-58" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-58" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="275.25" y="140" width="276" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-59" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-59" value="get onotology model with all concepts and relations" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="322" y="80" width="179" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-60" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-60" value="begin" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="362" y="10" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-61" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-61" value="consider the ontology schema. highlight the concepts that are basis for connecting with other elements of onotology&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="262" y="140" width="304" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-62" value="while all concepts &lt;br style=&quot;font-size: 14px;&quot;&gt;have not been viewed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-62" value="while all concepts &lt;br style=&quot;font-size: 14px;&quot;&gt;have not been viewed&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="314.75" y="300" width="198.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;search in depth from the available concepts to the next concept&amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-63" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;search in depth from the available concepts to the next concept&amp;nbsp;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="202.75" y="420" width="183" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;define is the concept generalizing either a value (data in a table) or a characteristic (an attribute in a table)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-64" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;define is the concept generalizing either a value (data in a table) or a characteristic (an attribute in a table)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="168.87" y="510" width="252.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-65" value="the concept is generalizing&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-65" value="the concept is generalizing&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="235.25" y="585" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WkHsH0A4d1GKPgpf2KQl-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;the found concept in the infological model is considered a separate entity.&lt;br style=&quot;font-size: 14px;&quot;&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" vertex="1" parent="WkHsH0A4d1GKPgpf2KQl-1">
+        <mxCell id="WkHsH0A4d1GKPgpf2KQl-66" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;the found concept in the infological model is considered a separate entity.&lt;br style=&quot;font-size: 14px;&quot;&gt;stablish a relationship with a previous entity&amp;nbsp;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#004C99;fontColor=#FFFFFF;fontStyle=1;fontSize=14;" parent="WkHsH0A4d1GKPgpf2KQl-1" vertex="1">
           <mxGeometry x="56" y="640" width="184" height="99" as="geometry" />
         </mxCell>
       </root>
